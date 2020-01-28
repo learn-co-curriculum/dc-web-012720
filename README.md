@@ -5,3 +5,4 @@
 
 ## Module One
 * 01 Hashketball [code](https://github.com/learn-co-students/dc-web-012720/tree/master/01-Hasketball) | [video](https://youtu.be/YtSeEjPRb3E)
+* 02 Intro to Object Orientation [code](https://github.com/learn-co-students/dc-web-012720/tree/master/02-Intro-to-OO) | [video](https://youtu.be/VorwDYf0Opo)
