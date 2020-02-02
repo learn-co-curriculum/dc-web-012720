@@ -9,3 +9,4 @@
 * 3 One-To-Many [code](https://github.com/learn-co-students/dc-web-012720/tree/master/03-One-to-Many) | [video part 1](https://youtu.be/_CNbjkXMjLo) | [video part 2](https://youtu.be/Ef0M69Fh-8Y)
 * 4 OO-Pets Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/04-OO-Pets-Review) | [video](https://youtu.be/dPVecaOibtY)
 * 5 Many-To-Many [code](https://github.com/learn-co-students/dc-web-012720/tree/master/05-Many-to-Many) | [video](https://youtu.be/R1znDwSjnJs)
+* 6 Inheritance [code](https://github.com/learn-co-students/dc-web-012720/tree/master/06-Inheritence) | [video](https://youtu.be/IWLZY8H4LBY)
