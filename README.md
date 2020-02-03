@@ -10,3 +10,4 @@
 * 4 OO-Pets Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/04-OO-Pets-Review) | [video](https://youtu.be/dPVecaOibtY)
 * 5 Many-To-Many [code](https://github.com/learn-co-students/dc-web-012720/tree/master/05-Many-to-Many) | [video](https://youtu.be/R1znDwSjnJs)
 * 6 Inheritance [code](https://github.com/learn-co-students/dc-web-012720/tree/master/06-Inheritence) | [video](https://youtu.be/IWLZY8H4LBY)
+* 7 Lyft-Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/07-lyft-review) | [video](https://youtu.be/j7B3EDgoc8s)
