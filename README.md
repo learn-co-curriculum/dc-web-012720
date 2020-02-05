@@ -11,3 +11,4 @@
 * 05 Many-To-Many [code](https://github.com/learn-co-students/dc-web-012720/tree/master/05-Many-to-Many) | [video](https://youtu.be/R1znDwSjnJs)
 * 06 Inheritance [code](https://github.com/learn-co-students/dc-web-012720/tree/master/06-Inheritence) | [video](https://youtu.be/IWLZY8H4LBY)
 * 07 Lyft-Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/07-lyft-review) | [video](https://youtu.be/j7B3EDgoc8s)
+* 08 SQL-Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/08-SQL-Review)
