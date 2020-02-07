@@ -39,3 +39,5 @@
 * 07 Lyft-Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/07-lyft-review) | [video](https://youtu.be/j7B3EDgoc8s)
 * 08 SQL Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/08-SQL-Review)
 * 09 ORMs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/09-ORMs) | [video](https://youtu.be/suuIrVDOWVQ)
+* 10 Active Record [code](https://github.com/learn-co-students/dc-web-012720/tree/master/10-Intro-To-Active-Record) | [old video from previous cohort](https://www.youtube.com/watch?v=XiML5QfILi4&feature=youtu.be)
+* 11 Active Record Associations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/11-Active-Record-Associations) | [video](https://youtu.be/Te1VArbmFV8)
