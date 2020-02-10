@@ -41,3 +41,4 @@
 * 09 ORMs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/09-ORMs) | [video](https://youtu.be/suuIrVDOWVQ)
 * 10 Active Record [code](https://github.com/learn-co-students/dc-web-012720/tree/master/10-Intro-To-Active-Record) | [old video from previous cohort](https://www.youtube.com/watch?v=XiML5QfILi4&feature=youtu.be)
 * 11 Active Record Associations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/11-Active-Record-Associations) | [video](https://youtu.be/Te1VArbmFV8)
+* 12 APIs and CLIs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/12-APIs-and-CLIs) | [video](https://youtu.be/DlsPpecdTso)
