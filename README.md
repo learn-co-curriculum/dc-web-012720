@@ -43,3 +43,4 @@
 * 11 Active Record Associations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/11-Active-Record-Associations) | [video](https://youtu.be/Te1VArbmFV8)
 * 12 APIs and CLIs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/12-APIs-and-CLIs) | [video](https://youtu.be/DlsPpecdTso)
 * 13 [Mod 1 Project Example WizardHealth](https://github.com/learn-co-students/dc-web-012720/tree/master/13-Intro-to-ProjectWeek-WizardHealth)
+* 14 Intro to Testing [video](https://www.youtube.com/watch?v=STcLGoKgg48&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/intro-to-testing-starter-code)
