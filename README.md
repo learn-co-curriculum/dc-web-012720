@@ -5,27 +5,27 @@
 
 ## Blog Schedule
 
-2/13: Alan, Bri, Carl, Jason, Matteo
+2/13: Alan, Bri, Carl, Matteo
 
-2/20: Lauren, Paul, Ryan, Valentin
+2/20: Jason, Lauren, Paul, Ryan, Valentin
 
 2/27: Sonata, Wesley, William, Yo
 
-3/5: Alan, Bri, Carl, Jason, Matteo
+3/5: Alan, Bri, Carl, Matteo
 
-3/12: Lauren, Paul, Ryan, Valentin
+3/12: Jason, Lauren, Paul, Ryan, Valentin
 
 3/19: Sonata, Wesley, William, Yo
 
-3/26: Alan, Bri, Carl, Jason, Matteo
+3/26: Alan, Bri, Carl, Matteo
 
-4/2: Lauren, Paul, Ryan, Valentin
+4/2: Jason, Lauren, Paul, Ryan, Valentin
 
 4/9: Sonata, Wesley, William, Yo
 
-4/16: Alan, Bri, Carl, Jason, Matteo
+4/16: Alan, Bri, Carl, Matteo
 
-4/23: Lauren, Paul, Ryan, Valentin
+4/23: Jason, Lauren, Paul, Ryan, Valentin
 
 4/30: Sonata, Wesley, William, Yo
 
