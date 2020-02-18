@@ -45,3 +45,4 @@
 * 13 [Mod 1 Project Example WizardHealth](https://github.com/learn-co-students/dc-web-012720/tree/master/13-Intro-to-ProjectWeek-WizardHealth)
 * 14 Intro to Testing [video](https://www.youtube.com/watch?v=STcLGoKgg48&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/intro-to-testing-starter-code)
 * 15 Intro to the Internet [powerpoint](https://docs.google.com/presentation/d/1JyntkxdLQaAtrUIBQCsvC13C4TB0OkQ1kxBCnCidkRU/edit?usp=sharing) 
+* 16 Sinatra Pt 1 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/16-intro-to-sinatra) | [video](https://youtu.be/9W4dy0vUv0w)
