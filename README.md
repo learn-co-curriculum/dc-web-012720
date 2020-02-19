@@ -47,3 +47,4 @@
 * 15 Intro to the Internet [powerpoint](https://docs.google.com/presentation/d/1JyntkxdLQaAtrUIBQCsvC13C4TB0OkQ1kxBCnCidkRU/edit?usp=sharing) 
 * 16 Sinatra Pt 1 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/16-intro-to-sinatra) | [video](https://youtu.be/9W4dy0vUv0w)
 * 17 Sinatra Pt 2 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/17-sinatra-pt-2) | video [pt1](https://youtu.be/T18Q_Vf1dlc) [pt2](https://youtu.be/2QjRNrQRZ8s)
+* 18 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-012720/tree/master/18-sinatra-associated-objects) | [video](https://youtu.be/pPcGffsWAi0)
