@@ -44,7 +44,10 @@
 * 12 APIs and CLIs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/12-APIs-and-CLIs) | [video](https://youtu.be/DlsPpecdTso)
 * 13 [Mod 1 Project Example WizardHealth](https://github.com/learn-co-students/dc-web-012720/tree/master/13-Intro-to-ProjectWeek-WizardHealth)
 * 14 Intro to Testing [video](https://www.youtube.com/watch?v=STcLGoKgg48&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/intro-to-testing-starter-code)
-* 15 Intro to the Internet [powerpoint](https://docs.google.com/presentation/d/1JyntkxdLQaAtrUIBQCsvC13C4TB0OkQ1kxBCnCidkRU/edit?usp=sharing) 
+* 15 Intro to the Internet [powerpoint](https://docs.google.com/presentation/d/1JyntkxdLQaAtrUIBQCsvC13C4TB0OkQ1kxBCnCidkRU/edit?usp=sharing)
+
+## Module Two
 * 16 Sinatra Pt 1 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/16-intro-to-sinatra) | [video](https://youtu.be/9W4dy0vUv0w)
 * 17 Sinatra Pt 2 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/17-sinatra-pt-2) | video [pt1](https://youtu.be/T18Q_Vf1dlc) [pt2](https://youtu.be/2QjRNrQRZ8s)
 * 18 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-012720/tree/master/18-sinatra-associated-objects) | [video](https://youtu.be/pPcGffsWAi0)
+* 19 RESTful Routes Review [video](https://youtu.be/3mbFcfEHRRo)
