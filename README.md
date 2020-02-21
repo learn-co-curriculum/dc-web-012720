@@ -51,4 +51,4 @@
 * 17 Sinatra Pt 2 [code](https://github.com/learn-co-students/dc-web-012720/tree/master/17-sinatra-pt-2) | video [pt1](https://youtu.be/T18Q_Vf1dlc) [pt2](https://youtu.be/2QjRNrQRZ8s)
 * 18 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-012720/tree/master/18-sinatra-associated-objects) | [video](https://youtu.be/pPcGffsWAi0)
 * 19 RESTful Routes Review [video](https://youtu.be/3mbFcfEHRRo)
-* 20 Intro to Rails [code](https://github.com/learn-co-students/dc-web-012720/tree/master/19-intro-to-rails)
+* 20 Intro to Rails [video](https://youtu.be/8vSd60se16w) [code](https://github.com/learn-co-students/dc-web-012720/tree/master/19-intro-to-rails)
