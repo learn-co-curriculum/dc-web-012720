@@ -7,9 +7,9 @@
 
 2/13: Alan, Bri, Carl, Matteo
 
-2/20: Jason, Lauren, Paul, Ryan, Valentin
+2/20: Jason, Lauren, Paul, Valentin
 
-2/27: Sonata, Wesley, William, Yo
+2/27: Sonata, Wesley, William, Yo, Ryan
 
 3/5: Alan, Bri, Carl, Matteo
 
