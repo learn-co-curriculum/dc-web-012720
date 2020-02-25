@@ -54,3 +54,4 @@
 * 20 Intro to Rails [video](https://youtu.be/8vSd60se16w) | [code](https://github.com/learn-co-students/dc-web-012720/tree/master/19-intro-to-rails)
 * 21 Rails CRUD [code](https://github.com/learn-co-students/dc-web-012720/tree/master/20-rails-crud) | video [pt1](https://youtu.be/TTASITDnGKI) [pt2](https://youtu.be/HF51gi7Nnfk)
 * 22 Rails Forms [code](https://github.com/learn-co-students/dc-web-012720/tree/master/21-rails-forms) | [video](https://youtu.be/L9gjhPVra1Y)
+* 23 Rails Associations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/22-rails-associated-objects) | [video](https://youtu.be/0nBTdTdOUCk)
