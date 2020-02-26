@@ -56,4 +56,4 @@
 * 22 Rails Forms [code](https://github.com/learn-co-students/dc-web-012720/tree/master/21-rails-forms) | [video](https://youtu.be/L9gjhPVra1Y)
 * 23 Rails Associations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/22-rails-associated-objects) | [video](https://youtu.be/0nBTdTdOUCk)
 * 24 Rails Validations [code](https://github.com/learn-co-students/dc-web-012720/tree/master/23-rails-validations) | [video](https://youtu.be/V8DPAiojrS0)
-* 25 Mod 2 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/24-Mod-2-Code-Challenge-Review/hogwarts_student_roster) | [video]
+* 25 Mod 2 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/24-Mod-2-Code-Challenge-Review/hogwarts_student_roster) | [video](https://youtu.be/7bEo8uWo--c)
