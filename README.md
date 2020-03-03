@@ -59,3 +59,4 @@
 * 25 Mod 2 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/24-Mod-2-Code-Challenge-Review/hogwarts_student_roster) | [video](https://youtu.be/7bEo8uWo--c)
 * 26 Cookies [code](https://github.com/learn-co-students/dc-web-012720/tree/master/25-cookies) | [video](https://youtu.be/2beXWzbLs84)
 * 27 Authentication [code](https://github.com/learn-co-students/dc-web-012720/tree/master/26-auth) | [video](https://youtu.be/CVOU-_jnVcE)
+* 28 Authorization [code](https://github.com/learn-co-students/dc-web-012720/tree/master/27-authorization) | [video](https://youtu.be/u0d8HAP8zEY)
