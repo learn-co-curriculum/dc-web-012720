@@ -60,3 +60,4 @@
 * 26 Cookies [code](https://github.com/learn-co-students/dc-web-012720/tree/master/25-cookies) | [video](https://youtu.be/2beXWzbLs84)
 * 27 Authentication [code](https://github.com/learn-co-students/dc-web-012720/tree/master/26-auth) | [video](https://youtu.be/CVOU-_jnVcE)
 * 28 Authorization [code](https://github.com/learn-co-students/dc-web-012720/tree/master/27-authorization) | [video](https://youtu.be/u0d8HAP8zEY)
+* 29 CSS [code](https://github.com/learn-co-students/dc-web-012720) 
