@@ -61,3 +61,6 @@
 * 27 Authentication [code](https://github.com/learn-co-students/dc-web-012720/tree/master/26-auth) | [video](https://youtu.be/CVOU-_jnVcE)
 * 28 Authorization [code](https://github.com/learn-co-students/dc-web-012720/tree/master/27-authorization) | [video](https://youtu.be/u0d8HAP8zEY)
 * 29 CSS [code](https://github.com/learn-co-students/dc-web-012720) 
+
+## Module Three 
+* 30 Javascript [code](https://github.com/learn-co-students/dc-web-012720/tree/master/29-javascript-intro) | [video](https://www.youtube.com/watch?v=sf8-EjhX08Q&feature=youtu.be)
