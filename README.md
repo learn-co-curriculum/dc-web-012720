@@ -63,4 +63,5 @@
 * 29 CSS [code](https://github.com/learn-co-students/dc-web-012720) 
 
 ## Module Three 
-* 30 Javascript [code](https://github.com/learn-co-students/dc-web-012720/tree/master/29-javascript-intro) | [video](https://www.youtube.com/watch?v=sf8-EjhX08Q&feature=youtu.be)
+* 30 Intro to Javascript [code](https://github.com/learn-co-students/dc-web-012720/tree/master/29-javascript-intro) | [video](https://www.youtube.com/watch?v=sf8-EjhX08Q&feature=youtu.be)
+* 31 Intro to the DOM [code](https://github.com/learn-co-students/dc-web-012720/tree/master/30-intro-to-the-dom) | video [pt1](https://youtu.be/ViGjtVb254w) [pt2](https://youtu.be/TUs0fPdooY0) [pt3](https://youtu.be/B1EIM1l53Fk)
