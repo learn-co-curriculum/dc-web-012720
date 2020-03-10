@@ -11,23 +11,23 @@
 
 2/27: Wesley, Ryan
 
-3/5: Alan, Bri, Carl, Matteo, Yo, Sonata, William
+3/5: Alan, Bri, Carl, Matteo, William
 
-3/12: Jason, Lauren, Paul, Ryan, Valentin
+3/12: Jason, Lauren, Paul, Ryan, Yo
 
-3/19: Sonata, Wesley, William, Yo
+3/19: Wesley, William, Yo, Valentin
 
 3/26: Alan, Bri, Carl, Matteo
 
-4/2: Jason, Lauren, Paul, Ryan, Valentin
+4/2: Jason, Lauren, Paul, Ryan
 
-4/9: Sonata, Wesley, William, Yo
+4/9: Wesley, William, Yo, Valentin
 
 4/16: Alan, Bri, Carl, Matteo
 
-4/23: Jason, Lauren, Paul, Ryan, Valentin
+4/23: Jason, Lauren, Paul, Ryan
 
-4/30: Sonata, Wesley, William, Yo
+4/30: Wesley, William, Yo, Valentin
 
 ## Module One
 * 01 Hashketball [code](https://github.com/learn-co-students/dc-web-012720/tree/master/01-Hasketball) | [video](https://youtu.be/YtSeEjPRb3E)
