@@ -68,3 +68,4 @@
 * 32 Scope, Functions & Callbacks [code](https://github.com/learn-co-students/dc-web-012720/tree/master/31-scope-and-stuff) | [video](https://youtu.be/uiZZ3XqNUhw)
 * 33 Events [code](https://github.com/learn-co-students/dc-web-012720/tree/master/32-events) | [video](https://youtu.be/9KFicZi-zrU)
 * 34 Task Lister Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/33-Task-Lister-Review/jsdom-task-lister-lite) | [video](https://youtu.be/vb2ireGhWOs)
+* 35 Fetch [code](https://github.com/learn-co-students/dc-web-012720/tree/master/34-intro-to-fetch) | [video](https://youtu.be/i7foVSLXYA0)
