@@ -67,5 +67,5 @@
 * 31 Intro to the DOM [code](https://github.com/learn-co-students/dc-web-012720/tree/master/30-intro-to-the-dom) | video [pt1](https://youtu.be/ViGjtVb254w) [pt2](https://youtu.be/TUs0fPdooY0) [pt3](https://youtu.be/B1EIM1l53Fk)
 * 32 Scope, Functions & Callbacks [code](https://github.com/learn-co-students/dc-web-012720/tree/master/31-scope-and-stuff) | [video](https://youtu.be/uiZZ3XqNUhw)
 * 33 Events [code](https://github.com/learn-co-students/dc-web-012720/tree/master/32-events) | [video](https://youtu.be/9KFicZi-zrU)
-* 34 Task Lister Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/33-Task-Lister-Review/jsdom-task-lister-lite) | [video](https://youtu.be/vb2ireGhWOs)
+* 34 Task Lister Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/33-Task-Lister-Review/jsdom-task-lister-lite) | [video](https://youtu.be/17S67IO4bEI)
 * 35 Fetch [code](https://github.com/learn-co-students/dc-web-012720/tree/master/34-intro-to-fetch) | [video](https://youtu.be/i7foVSLXYA0)
