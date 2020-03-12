@@ -69,3 +69,4 @@
 * 33 Events [code](https://github.com/learn-co-students/dc-web-012720/tree/master/32-events) | [video](https://youtu.be/9KFicZi-zrU)
 * 34 Task Lister Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/33-Task-Lister-Review/jsdom-task-lister-lite) | [video](https://youtu.be/17S67IO4bEI)
 * 35 Fetch [code](https://github.com/learn-co-students/dc-web-012720/tree/master/34-intro-to-fetch) | [video](https://youtu.be/i7foVSLXYA0)
+* 36 Single Page Applications [code](https://github.com/learn-co-students/dc-web-012720/tree/master/35-single-page-applications) | [video](https://youtu.be/yh9YAUflUA4)
