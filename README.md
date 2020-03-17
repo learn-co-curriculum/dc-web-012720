@@ -71,3 +71,4 @@
 * 35 Fetch [code](https://github.com/learn-co-students/dc-web-012720/tree/master/34-intro-to-fetch) | [video](https://youtu.be/i7foVSLXYA0)
 * 36 Single Page Applications [code](https://github.com/learn-co-students/dc-web-012720/tree/master/35-single-page-applications) | [video](https://youtu.be/yh9YAUflUA4)
 * 37 Monsters [code](https://github.com/learn-co-students/dc-web-012720/tree/master/36-monster-review) | [video](https://wework.zoom.us/rec/play/vJR4cOmq-m83SdDDsgSDUaIvW461Jqqs1HBKqfoMykfgBXkCMVqlbuAbZeGBl8i4C6Uss6BoOWDks053?continueMode=true)
+* 38 Rails API [code](https://github.com/learn-co-students/dc-web-012720/tree/master/37-rails-api)
