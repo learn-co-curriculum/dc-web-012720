@@ -13,11 +13,11 @@
 
 3/5: Alan, Bri, Carl, Matteo, William
 
-3/12: Jason, Lauren, Paul, Ryan, Yo
+3/12: Jason, Lauren, Paul
 
-3/19: Wesley, William, Yo, Valentin
+3/19: Wesley, William, Yo, Valentin, Ryan
 
-3/26: Alan, Bri, Carl, Matteo
+3/26: Alan, Bri, Carl, Matteo, Yo
 
 4/2: Jason, Lauren, Paul, Ryan
 
