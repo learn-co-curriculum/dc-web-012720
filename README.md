@@ -60,9 +60,9 @@
 * 26 Cookies [code](https://github.com/learn-co-students/dc-web-012720/tree/master/25-cookies) | [video](https://youtu.be/2beXWzbLs84)
 * 27 Authentication [code](https://github.com/learn-co-students/dc-web-012720/tree/master/26-auth) | [video](https://youtu.be/CVOU-_jnVcE)
 * 28 Authorization [code](https://github.com/learn-co-students/dc-web-012720/tree/master/27-authorization) | [video](https://youtu.be/u0d8HAP8zEY)
-* 29 CSS [code](https://github.com/learn-co-students/dc-web-012720) 
+* 29 CSS [code](https://github.com/learn-co-students/dc-web-012720)
 
-## Module Three 
+## Module Three
 * 30 Intro to Javascript [code](https://github.com/learn-co-students/dc-web-012720/tree/master/29-javascript-intro) | [video](https://www.youtube.com/watch?v=sf8-EjhX08Q&feature=youtu.be)
 * 31 Intro to the DOM [code](https://github.com/learn-co-students/dc-web-012720/tree/master/30-intro-to-the-dom) | video [pt1](https://youtu.be/ViGjtVb254w) [pt2](https://youtu.be/TUs0fPdooY0) [pt3](https://youtu.be/B1EIM1l53Fk)
 * 32 Scope, Functions & Callbacks [code](https://github.com/learn-co-students/dc-web-012720/tree/master/31-scope-and-stuff) | [video](https://youtu.be/uiZZ3XqNUhw)
@@ -74,3 +74,5 @@
 * 38 Rails API [code](https://github.com/learn-co-students/dc-web-012720/tree/master/37-rails-api) | video [pt1](https://wework.zoom.us/rec/play/tcB8de6gqzI3HdKUsQSDBPUoW42_ev2s1icc_6EEy02zUXFRYVqub7pHYuMDeO7Tq7dXXbnv15MSwADp?continueMode=true) [pt2](https://wework.zoom.us/rec/play/tcB8de6gqzI3HdKUsQSDBPUoW42_ev2s1icc_6EEy02zUXFRYVqub7pHYuMDeO7Tq7dXXbnv15MSwADp?autoplay=true&continueMode=true&startTime=1584455718000) [pt3](https://wework.zoom.com/rec/share/tZZpCqzO9XlOWq_rymjxRIgzNa-4X6a82yEY-_sPmh215Ddn0-_kZR8XdJJhYubX)
 * 39 Pokemon Team Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/38-pokemon-team-review) | [video](https://youtu.be/cf9NMl8cTjQ)
 * 40 this [code](https://github.com/learn-co-students/dc-web-012720/tree/master/39-this) | [video](https://wework.zoom.com/rec/share/-fdRbJCuxzNJaNbvsX6Cdpx4HIflT6a823RKq6ELzxxjDH-0T9YuA9p4E7d4wHW3)
+* 41 OOJS [code](https://github.com/learn-co-students/dc-web-012720/tree/master/40-OOJS) | [video](https://wework.zoom.com/rec/share/9eNIAajoqkpOWpHV5m7gAqQORZzseaa8hylN-6cMyEiBPeSabW723P9z6P_Xh2wu)
+* 21 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/41-OOJS-and-SPA) | [video](https://wework.zoom.com/rec/share/2N02Fq3p7GlIU6fBtU6ce_85AK-8T6a8gHVK8qIJmRtuFsD2V1aKhNNX2cgQ9z0-)
