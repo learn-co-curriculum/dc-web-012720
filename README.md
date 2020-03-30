@@ -75,4 +75,7 @@
 * 39 Pokemon Team Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/38-pokemon-team-review) | [video](https://youtu.be/cf9NMl8cTjQ)
 * 40 this [code](https://github.com/learn-co-students/dc-web-012720/tree/master/39-this) | [video](https://wework.zoom.com/rec/share/-fdRbJCuxzNJaNbvsX6Cdpx4HIflT6a823RKq6ELzxxjDH-0T9YuA9p4E7d4wHW3)
 * 41 OOJS [code](https://github.com/learn-co-students/dc-web-012720/tree/master/40-OOJS) | [video](https://youtu.be/kSQfVIxeuMM)
-* 21 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/41-OOJS-and-SPA) | [video](https://youtu.be/on1IBm-qmmY)
+* 42 OOJS and SPAs [code](https://github.com/learn-co-students/dc-web-012720/tree/master/41-OOJS-and-SPA) | [video](https://youtu.be/on1IBm-qmmY)
+
+## Module 4
+* 42 Intro to React [code](https://github.com/learn-co-students/dc-web-012720/tree/master/42-Intro-to-React) | [video](https://youtu.be/zVCSQ7JCRK8)
