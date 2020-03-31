@@ -80,3 +80,4 @@
 ## Module 4
 * 42 Intro to React [code](https://github.com/learn-co-students/dc-web-012720/tree/master/42-Intro-to-React) | [video](https://youtu.be/zVCSQ7JCRK8)
 * 43 Props [code](https://github.com/learn-co-students/dc-web-012720/tree/master/43-Props) | [video](https://youtu.be/1jfvFbN0Fe4)
+* 44 State [code](https://github.com/learn-co-students/dc-web-012720/tree/master/44-State)
