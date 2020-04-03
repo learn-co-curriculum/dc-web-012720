@@ -85,3 +85,4 @@
 * 46 Animal Shelter Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/46-Animal-Shelter-lab-review/react-props-and-state-lab) | [video](https://youtu.be/c-nr31zkl20) | [old video](https://www.youtube.com/watch?v=CxcU4FqSWic&feature=youtu.be)
 * 47 Hogwarts Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/47-Hogwarts-Lab-Review) |[video](https://youtu.be/tJXIW-L_IjU) | [old video](https://www.youtube.com/watch?v=HJ9FLqdwDV4&feature=youtu.be)
 * 48 Component Lifecycle [code](https://github.com/learn-co-students/dc-web-012720/tree/master/48-Component-Lifecycle) | [video](https://www.youtube.com/watch?v=LK8oyf8npds&feature=youtu.be)
+* 49 Thinking in React [code](https://github.com/learn-co-students/dc-web-012720/tree/master/49-Thinking-In-React) | [video part1](https://youtu.be/pe9SKHNnkiI) | [video part2](https://youtu.be/mNiF_eJkqec)
