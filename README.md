@@ -86,4 +86,4 @@
 * 47 Hogwarts Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/47-Hogwarts-Lab-Review) |[video](https://youtu.be/tJXIW-L_IjU) | [old video](https://www.youtube.com/watch?v=HJ9FLqdwDV4&feature=youtu.be)
 * 48 Component Lifecycle [code](https://github.com/learn-co-students/dc-web-012720/tree/master/48-Component-Lifecycle) | [video](https://www.youtube.com/watch?v=LK8oyf8npds&feature=youtu.be)
 * 49 Thinking in React [code](https://github.com/learn-co-students/dc-web-012720/tree/master/49-Thinking-In-React) | [video part1](https://youtu.be/pe9SKHNnkiI) | [video part2](https://youtu.be/mNiF_eJkqec)
-* 50 Sushi Saga Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/50-Sushi-Lab-Review) | [video part 1](https://youtu.be/n_B7cau93qQ) | [video part 2]
+* 50 Sushi Saga Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/50-Sushi-Lab-Review) | [video part 1](https://youtu.be/n_B7cau93qQ) | [video part 2](https://youtu.be/xFiMJk9p5D8)
