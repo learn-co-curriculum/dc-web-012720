@@ -88,4 +88,4 @@
 * 49 Thinking in React [code](https://github.com/learn-co-students/dc-web-012720/tree/master/49-Thinking-In-React) | [video part1](https://youtu.be/pe9SKHNnkiI) | [video part2](https://youtu.be/mNiF_eJkqec)
 * 50 Sushi Saga Lab Review [code](https://github.com/learn-co-students/dc-web-012720/tree/master/50-Sushi-Lab-Review) | [video part 1](https://youtu.be/n_B7cau93qQ) | [video part 2](https://youtu.be/xFiMJk9p5D8)
 * 51 React Router [code](https://github.com/learn-co-students/dc-web-012720/tree/master/51-React-Router) | [video](https://youtu.be/3QV3vqs7tro)
-* 52 React Auth [old video part1](https://www.youtube.com/watch?v=rs-9aKCj8fQ&feature=youtu.be) | [old video part2](https://www.youtube.com/watch?v=lkaGXo1wER0&feature=youtu.be)
+* 52 React Auth [code](https://github.com/learn-co-students/dc-web-012720/tree/master/52-Auth) | [old video part1](https://www.youtube.com/watch?v=rs-9aKCj8fQ&feature=youtu.be) | [old video part2](https://www.youtube.com/watch?v=lkaGXo1wER0&feature=youtu.be) | [live video part 1](https://www.youtube.com/watch?v=0bC9R_OSJU0&feature=youtu.be) | [live video part 2](https://www.youtube.com/watch?v=zpKBJeOhUyo&feature=youtu.be)
