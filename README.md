@@ -21,13 +21,13 @@
 
 4/2: Jason, Lauren, Paul, Ryan
 
-4/9: Wesley, William, Yo, Valentin
+4/9: William, Valentin
 
-4/16: Alan, Bri, Carl, Matteo
+4/16: Bri, Carl, Matteo, Wesley
 
-4/23: Jason, Lauren, Paul, Ryan
+4/23: Jason, Lauren, Paul, Ryan, Alan
 
-4/30: Wesley, William, Yo, Valentin
+4/30: Wesley, William, Valentin
 
 ## Module One
 * 01 Hashketball [code](https://github.com/learn-co-students/dc-web-012720/tree/master/01-Hasketball) | [video](https://youtu.be/YtSeEjPRb3E)
