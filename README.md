@@ -91,6 +91,6 @@
 * 52 React Auth [code](https://github.com/learn-co-students/dc-web-012720/tree/master/52-Auth) | [old video part1](https://www.youtube.com/watch?v=rs-9aKCj8fQ&feature=youtu.be) | [old video part2](https://www.youtube.com/watch?v=lkaGXo1wER0&feature=youtu.be) | [live video part 1](https://www.youtube.com/watch?v=0bC9R_OSJU0&feature=youtu.be) | [live video part 2](https://www.youtube.com/watch?v=zpKBJeOhUyo&feature=youtu.be)
 
 ## Redux and Mod 5
-* 54 Intro to Redux [slide](https://github.com/learn-co-students/dc-web-012720/blob/master/54-Intro-to-Redux/ReduxLectureSlides.pdf) 
-* 55 Actions and Reducer [code](https://github.com/learn-co-students/dc-web-012720/tree/master/55-Actions-Reducers)
-* 56 Provider and connect [code](https://github.com/learn-co-students/dc-web-012720/tree/master/56-Provider-connect)
+* 54 Intro to Redux [slide](https://github.com/learn-co-students/dc-web-012720/blob/master/54-Intro-to-Redux/ReduxLectureSlides.pdf) | [video](https://youtu.be/WsvaVbn7G-E)
+* 55 Actions and Reducer [code](https://github.com/learn-co-students/dc-web-012720/tree/master/55-Actions-Reducers) | [video](https://youtu.be/cPEdkbTvhuo)
+* 56 Provider and connect [code](https://github.com/learn-co-students/dc-web-012720/tree/master/56-Provider-connect) | [video](https://youtu.be/qNQj_J8Upq0)
