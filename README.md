@@ -95,3 +95,4 @@
 * 55 Actions and Reducer [code](https://github.com/learn-co-students/dc-web-012720/tree/master/55-Actions-Reducers) | [video](https://youtu.be/cPEdkbTvhuo)
 * 56 Provider and connect [code](https://github.com/learn-co-students/dc-web-012720/tree/master/56-Provider-connect) | [video](https://youtu.be/qNQj_J8Upq0)
 * 57 Thinking in Redux [code](https://github.com/learn-co-students/dc-web-012720/tree/master/57-Thinking-In-Redux) | [video part 1](https://youtu.be/Bw0DZinm_Kw) | [video part 2](https://youtu.be/cc6CNPkeXgU)
+* 58 Async Redux (Thunk) [old video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code](https://github.com/learn-co-students/dc-web-012720/tree/master/58-Async-Redux)
