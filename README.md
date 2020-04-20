@@ -1,7 +1,7 @@
 # DC-web-012720
 
 ## Schedule
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23616161&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzVhZzQ3Z3ZwZ2YzZnQ4YTdmOWNhcmJjM3ZrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2UzcTBybHE5a3JtZ3Mza3VhMDVyNzEydW80QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%238E24AA&amp;color=%23F4511E&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzVhZzQ3Z3ZwZ2YzZnQ4YTdmOWNhcmJjM3ZrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX250MDhkNjRuNjlvdTdoYTNnYXRvamEwaW9vQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2UzcTBybHE5a3JtZ3Mza3VhMDVyNzEydW80QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23D50000&amp;color=%23616161&amp;color=%23A79B8E&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Blog Schedule
 
