@@ -96,3 +96,6 @@
 * 56 Provider and connect [code](https://github.com/learn-co-students/dc-web-012720/tree/master/56-Provider-connect) | [video](https://youtu.be/qNQj_J8Upq0)
 * 57 Thinking in Redux [code](https://github.com/learn-co-students/dc-web-012720/tree/master/57-Thinking-In-Redux) | [video part 1](https://youtu.be/Bw0DZinm_Kw) | [video part 2](https://youtu.be/cc6CNPkeXgU)
 * 58 Async Redux (Thunk) [old video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be) | [starter code](https://github.com/learn-co-students/dc-web-012720/tree/master/58-Async-Redux)
+
+## CSS MOD 5
+* 59 CSS [video1](https://youtu.be/LAlvkWppImM) [video2](https://youtu.be/Mw0NqfzZx64) | [code](https://github.com/learn-co-students/dc-web-012720/tree/master/59-css)
